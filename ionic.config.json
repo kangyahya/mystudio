@@ -1,0 +1,7 @@
+{
+  "name": "mystudio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
